@@ -1,0 +1,5 @@
+rootProject.name = 'lazyfood'
+include 'db'
+include 'domain'
+include 'api'
+

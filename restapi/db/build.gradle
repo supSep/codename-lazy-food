@@ -1,0 +1,15 @@
+group 'com.mucker'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.5
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'org.avaje.ebean', name: 'ebean', version: '8.6.1'
+
+}

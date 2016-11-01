@@ -1,0 +1,14 @@
+.DS_Store
+.idea/
+.git/
+target/
+*.swp
+*.iml
+*.ipr
+*.iws
+.build/
+.gradle
+ui/src/js/.idea/
+/build
+.classpath
+bin/
